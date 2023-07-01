@@ -1,2 +1,2 @@
 # tenary-operators
-This is a repository for me to learn JavaScript
+This is a repository for me to learn JavaScript tenary operators
